@@ -1,9 +1,9 @@
 package main.java.com.design.strategy;
 
 /**
- * @notes 策略模式
- * 摘自：2023年5月软考真题
- *
+ *  @notes 策略模式
+ *  摘自：2023年5月软考真题
+ *  定义：定义一系列算法，把他们一个个封装起来，并且使他们可以相互替换，从而使算法可以独立于使用它的用户而变化
  */
 enum TYPE {COMMA,DOTS,LINE}
 interface  PrintStrategy{
