@@ -2,9 +2,9 @@ package main.java.com.design.memento;
 
 import java.util.*;
 /**
- * @notes 备忘录模式
- * 摘自：2022年5月软考
- *
+ *  @notes 备忘录模式
+ *  摘自：2022年5月软考
+ *  定义：在不破坏封装性的前提下，捕获一个对象的内部状态，并在该对象之外保存这个对象，从而可以在以后将该对象恢复到原先保存的状态
  */
 
 class Memento{
