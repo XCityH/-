@@ -5,7 +5,13 @@ import java.util.List;
 
 /**
  * @组合模式
- * 摘自：2021年5月真题
+ * 摘自：
+ *      2021年5月真题  
+ * 主要考点：
+ *      抽象类abstract,
+ *      抽象方法使用
+ *      理解组合模式原理
+ * 
  */
 
 abstract class MenuComponent{
