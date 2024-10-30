@@ -4,6 +4,7 @@ import java.util.*;
 /**
  * @notes 享元模式
  * 摘自：2021年11月真题
+ * 定义：是一种对象结构型模式,它通过共享已经存在的对象来减少内存使用量和提高系统性能
  */
 
 enum  PieceColor {BLACK,WHITE}   //棋子颜色
