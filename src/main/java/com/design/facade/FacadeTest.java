@@ -3,6 +3,8 @@ package main.java.com.design.facade;
 import java.util.*;
 /**
  * @notes外观模式 2022年11月软考
+ * 
+ *  定义：定义一个高层接口，为子系统中的一个接口提供一个一致的外观，从而简化了该子系统的使用
  */
 
 interface Patient{
